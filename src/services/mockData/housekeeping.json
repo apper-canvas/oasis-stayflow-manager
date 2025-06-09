@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "roomId": "3",
+    "assignedTo": "Maria Santos",
+    "status": "in-progress",
+    "priority": "high",
+    "completedAt": null
+  },
+  {
+    "id": "2",
+    "roomId": "5",
+    "assignedTo": "James Mitchell",
+    "status": "pending",
+    "priority": "high",
+    "completedAt": null
+  },
+  {
+    "id": "3",
+    "roomId": "9",
+    "assignedTo": "Lisa Chen",
+    "status": "pending",
+    "priority": "medium",
+    "completedAt": null
+  },
+  {
+    "id": "4",
+    "roomId": "7",
+    "assignedTo": "Carlos Rodriguez",
+    "status": "completed",
+    "priority": "medium",
+    "completedAt": "2024-01-17T10:30:00Z"
+  },
+  {
+    "id": "5",
+    "roomId": "1",
+    "assignedTo": "Maria Santos",
+    "status": "completed",
+    "priority": "low",
+    "completedAt": "2024-01-17T14:15:00Z"
+  },
+  {
+    "id": "6",
+    "roomId": "8",
+    "assignedTo": "James Mitchell",
+    "status": "completed",
+    "priority": "medium",
+    "completedAt": "2024-01-17T16:45:00Z"
+  }
+]

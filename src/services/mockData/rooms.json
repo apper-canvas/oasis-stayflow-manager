@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "number": "101",
+    "type": "standard",
+    "floor": 1,
+    "status": "available",
+    "cleaningStatus": "clean",
+    "features": ["Wi-Fi", "TV", "Air Conditioning"],
+    "price": 120
+  },
+  {
+    "id": "2",
+    "number": "102",
+    "type": "standard",
+    "floor": 1,
+    "status": "occupied",
+    "cleaningStatus": "clean",
+    "features": ["Wi-Fi", "TV", "Air Conditioning"],
+    "price": 120
+  },
+  {
+    "id": "3",
+    "number": "103",
+    "type": "deluxe",
+    "floor": 1,
+    "status": "cleaning",
+    "cleaningStatus": "in-progress",
+    "features": ["Wi-Fi", "TV", "Air Conditioning", "Mini Bar", "Balcony"],
+    "price": 180
+  },
+  {
+    "id": "4",
+    "number": "201",
+    "type": "suite",
+    "floor": 2,
+    "status": "available",
+    "cleaningStatus": "clean",
+    "features": ["Wi-Fi", "TV", "Air Conditioning", "Mini Bar", "Balcony", "Kitchenette", "Living Area"],
+    "price": 350
+  },
+  {
+    "id": "5",
+    "number": "202",
+    "type": "deluxe",
+    "floor": 2,
+    "status": "maintenance",
+    "cleaningStatus": "dirty",
+    "features": ["Wi-Fi", "TV", "Air Conditioning", "Mini Bar", "Balcony"],
+    "price": 180
+  },
+  {
+    "id": "6",
+    "number": "203",
+    "type": "standard",
+    "floor": 2,
+    "status": "occupied",
+    "cleaningStatus": "clean",
+    "features": ["Wi-Fi", "TV", "Air Conditioning"],
+    "price": 120
+  },
+  {
+    "id": "7",
+    "number": "301",
+    "type": "suite",
+    "floor": 3,
+    "status": "available",
+    "cleaningStatus": "clean",
+    "features": ["Wi-Fi", "TV", "Air Conditioning", "Mini Bar", "Balcony", "Kitchenette", "Living Area", "Ocean View"],
+    "price": 450
+  },
+  {
+    "id": "8",
+    "number": "302",
+    "type": "deluxe",
+    "floor": 3,
+    "status": "available",
+    "cleaningStatus": "clean",
+    "features": ["Wi-Fi", "TV", "Air Conditioning", "Mini Bar", "Balcony", "Ocean View"],
+    "price": 220
+  },
+  {
+    "id": "9",
+    "number": "303",
+    "type": "standard",
+    "floor": 3,
+    "status": "cleaning",
+    "cleaningStatus": "dirty",
+    "features": ["Wi-Fi", "TV", "Air Conditioning"],
+    "price": 120
+  },
+  {
+    "id": "10",
+    "number": "304",
+    "type": "deluxe",
+    "floor": 3,
+    "status": "occupied",
+    "cleaningStatus": "clean",
+    "features": ["Wi-Fi", "TV", "Air Conditioning", "Mini Bar", "Balcony"],
+    "price": 180
+  }
+]

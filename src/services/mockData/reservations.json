@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "guestName": "Sarah Johnson",
+    "email": "sarah.johnson@email.com",
+    "phone": "+1 (555) 123-4567",
+    "roomId": "2",
+    "checkIn": "2024-01-15T15:00:00Z",
+    "checkOut": "2024-01-18T11:00:00Z",
+    "totalAmount": 360,
+    "status": "checked-in",
+    "notes": "Early check-in requested"
+  },
+  {
+    "id": "2",
+    "guestName": "Michael Chen",
+    "email": "m.chen@email.com",
+    "phone": "+1 (555) 234-5678",
+    "roomId": "6",
+    "checkIn": "2024-01-16T15:00:00Z",
+    "checkOut": "2024-01-20T11:00:00Z",
+    "totalAmount": 480,
+    "status": "checked-in",
+    "notes": "Business traveler, requires wake-up call at 6 AM"
+  },
+  {
+    "id": "3",
+    "guestName": "Emily Rodriguez",
+    "email": "emily.r@email.com",
+    "phone": "+1 (555) 345-6789",
+    "roomId": "10",
+    "checkIn": "2024-01-17T15:00:00Z",
+    "checkOut": "2024-01-19T11:00:00Z",
+    "totalAmount": 360,
+    "status": "checked-in",
+    "notes": "Celebrating anniversary, room decoration requested"
+  },
+  {
+    "id": "4",
+    "guestName": "David Thompson",
+    "email": "david.thompson@email.com",
+    "phone": "+1 (555) 456-7890",
+    "roomId": "1",
+    "checkIn": "2024-01-18T15:00:00Z",
+    "checkOut": "2024-01-21T11:00:00Z",
+    "totalAmount": 360,
+    "status": "confirmed",
+    "notes": "Arriving late, after 10 PM"
+  },
+  {
+    "id": "5",
+    "guestName": "Jessica Williams",
+    "email": "j.williams@email.com",
+    "phone": "+1 (555) 567-8901",
+    "roomId": "4",
+    "checkIn": "2024-01-19T15:00:00Z",
+    "checkOut": "2024-01-22T11:00:00Z",
+    "totalAmount": 1050,
+    "status": "confirmed",
+    "notes": "VIP guest, champagne and flowers in room"
+  },
+  {
+    "id": "6",
+    "guestName": "Robert Davis",
+    "email": "rob.davis@email.com",
+    "phone": "+1 (555) 678-9012",
+    "roomId": "7",
+    "checkIn": "2024-01-20T15:00:00Z",
+    "checkOut": "2024-01-24T11:00:00Z",
+    "totalAmount": 1800,
+    "status": "confirmed",
+    "notes": "Honeymoon suite, special amenities requested"
+  },
+  {
+    "id": "7",
+    "guestName": "Amanda Wilson",
+    "email": "amanda.w@email.com",
+    "phone": "+1 (555) 789-0123",
+    "roomId": "8",
+    "checkIn": "2024-01-18T15:00:00Z",
+    "checkOut": "2024-01-18T11:00:00Z",
+    "totalAmount": 220,
+    "status": "checked-out",
+    "notes": "Short business trip, express checkout"
+  }
+]
